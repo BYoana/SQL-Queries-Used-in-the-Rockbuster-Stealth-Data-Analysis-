@@ -15,5 +15,7 @@ The questions that will be answered by the analysis:
 - It’s around 3MB and contains several files.
 - A relationship exists between two tables if a column name is present in both tables.
 
+Note: Data ethics have been kept in mind when dealing with data, especially in regards to customer information.
+
 **The final presentation slides can be found on Tableau Public**: https://public.tableau.com/app/profile/yoana7458/viz/RockbusterStealthAnalysis/Story1
 

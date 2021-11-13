@@ -5,7 +5,7 @@ Instacart is an online grocery store that operates through an app. Instacart alr
 The variety of customers and their purchasing behaviors in the database is the most interesting topic for the main Instacart stakeholders who believe they could not target everyone using the same methods and strategy. They believe that targeting different customers with applicable marketing campaigns would have a positive effect on the sale of their products. 
 
 My analysis will mainly provide insights regarding how this strategy might look like and will aim to answer the following key questions:
->The sales team needs to know what the busiest days of the week and hours of the day
+-  The sales team needs to know what the busiest days of the week and hours of the day
 are (i.e., the days and times with the most orders) in order to schedule ads at times
 when there are fewer orders.
 -  The sales team needs to know what the busiest days of the week and hours of the day are (i.e., the days and times with the most orders) in order to schedule ads at times when there are fewer orders.

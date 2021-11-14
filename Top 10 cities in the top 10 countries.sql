@@ -1,5 +1,5 @@
 SELECT
-  D. country
+   D. country
   ,C.city
   ,COUNT (customer_id) AS number_of_customers
 
